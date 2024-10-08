@@ -8,5 +8,5 @@ selenium==4.25.0
 streamlit==1.17.0
 tensorflow==2.11.0
 webdriver_manager==4.0.2
-setuptools>=67.0.0
+setuptools>=75.1.0
 opencv-python==4.10.0.84
