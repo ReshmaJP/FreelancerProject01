@@ -9,4 +9,4 @@ streamlit==1.17.0
 tensorflow==2.11.0
 webdriver_manager==4.0.2
 setuptools>=75.1.0
-opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
