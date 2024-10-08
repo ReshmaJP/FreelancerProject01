@@ -9,8 +9,8 @@ import cv2
 from PIL import Image
 
 # Load your models
-forest = joblib.load("ArtNum.joblib")
-image_regressor = keras.models.load_model("Image_Regressor.h5")
+forest = joblib.load("app/ArtNum.joblib") 
+image_regressor = keras.models.load_model("app/Image_Regressor.h5")
 
 st.title("Artist Prediction Model")
 
